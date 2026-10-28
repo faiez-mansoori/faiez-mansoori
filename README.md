@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Faiez%20Mansoori&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer-in-the-Making&descAlignY=60&descSize=20" width="100%" />
+<p align="center">
+  <img src="assets/profile.png" width="150" alt="Faiez Mansoori" />
+</p>
 
-<h3 align="center">🤖 Machine Learning Experiments &amp; Data Science Portfolio</h3>
+<h1 align="center">Faiez Mansoori</h1>
+<h3 align="center">AI & Data Science Engineer-in-the-Making</h3>
+<h4 align="center">🤖 Machine Learning Experiments & Data Science Portfolio</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CFF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Machine+Learning;Turning+raw+data+into+intelligent+solutions;Open+to+AI%2FML+%26+Data+Science+Internships" alt="Typing SVG" />
@@ -27,7 +31,7 @@ B.Tech student in **Artificial Intelligence & Data Science** (LNCT Group of Coll
 > 🎯 **Open to:** AI/ML, Data Science and Data Analyst internships
 > 📫 **Reach me at:** [engineerfaiezmansoori@gmail.com](mailto:engineerfaiezmansoori@gmail.com)
 
-- 🎓 **Education:** B.Tech, Computer Software Engineering, LNCT Group of Colleges (2024)
+- 🎓 **Education:** B.Tech, Artificial Intelligence & Data Science, LNCT Group of Colleges (2024)
 - 🤖 **Focus:** Machine Learning, Data Analytics, Statistics
 - 📊 **Core skills:** Python, SQL, Pandas, NumPy
 - 💡 **Strengths:** Data Structures, Problem Solving, File Handling
@@ -142,5 +146,3 @@ flowchart LR
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faiez-mansoori&color=2C9CFF&style=flat-square&label=Profile+Views" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
