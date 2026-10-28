@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Faiez Mansoori - AI & Data Science Portfolio Banner" />
+  <img src="Banner.png" width="100%" alt="Faiez Mansoori - AI & Data Science Portfolio Banner" />
 </p>
 
 <h1 align="center">Faiez Mansoori</h1>
