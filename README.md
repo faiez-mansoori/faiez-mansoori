@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Faiez%20Mansoori&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer-in-the-Making&descAlignY=60&descSize=20" width="100%" />
 
-<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Faiez%20Mansoori&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer-in-the-Making&descAlignY=58&descSize=18" width="100%" />
+<h3 align="center">🤖 Machine Learning Experiments &amp; Data Science Portfolio</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CFF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Machine+Learning;Turning+raw+data+into+intelligent+solutions;Open+to+AI%2FML+%26+Data+Science+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faiez-mansoori-b16912413/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:engineerfaiezmansoori@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/whotfisfaiez"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO-INTERNSHIPS-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-B.TECH-2C5364?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faiez-mansoori-b16912413/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:engineerfaiezmansoori@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/whotfisfaiez"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,21 +63,23 @@ flowchart LR
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 ML Experiments
 
-> Practice experiments on public scikit-learn datasets. Full code: [`charts/make_charts.py`](charts/make_charts.py)
+> Practice experiments on public scikit-learn datasets (Breast Cancer, Wine, Diabetes).
 
 | Experiment | Dataset | Techniques | Result |
 |------------|---------|------------|--------|
@@ -87,22 +93,22 @@ flowchart LR
 ## 📈 ML Showcase
 
 <p align="center">
-  <img src="charts/01_model_comparison.png" width="48%" />
-  <img src="charts/02_roc_curves.png" width="48%" />
+  <img src="01_model_comparison.png" width="48%" />
+  <img src="02_roc_curves.png" width="48%" />
 </p>
 <p align="center">
-  <img src="charts/03_confusion_matrix.png" width="40%" />
-  <img src="charts/04_feature_importance.png" width="56%" />
+  <img src="03_confusion_matrix.png" width="40%" />
+  <img src="04_feature_importance.png" width="56%" />
 </p>
 <p align="center">
-  <img src="charts/05_learning_curve.png" width="48%" />
-  <img src="charts/06_correlation_heatmap.png" width="48%" />
+  <img src="05_learning_curve.png" width="48%" />
+  <img src="06_correlation_heatmap.png" width="48%" />
 </p>
 <p align="center">
-  <img src="charts/07_pca_kmeans.png" width="96%" />
+  <img src="07_pca_kmeans.png" width="96%" />
 </p>
 <p align="center">
-  <img src="charts/08_regression_tuning.png" width="96%" />
+  <img src="08_regression_tuning.png" width="96%" />
 </p>
 
 ---
@@ -138,16 +144,3 @@ flowchart LR
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
-**faiez-mansoori/faiez-mansoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
