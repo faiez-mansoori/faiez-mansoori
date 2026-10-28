@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="assets/profile.png" width="150" alt="Faiez Mansoori" />
+  <img src="assets/banner.png" width="100%" alt="Faiez Mansoori - AI & Data Science Portfolio Banner" />
 </p>
 
 <h1 align="center">Faiez Mansoori</h1>
-<h3 align="center">AI & Data Science Engineer-in-the-Making</h3>
-<h4 align="center">🤖 Machine Learning Experiments & Data Science Portfolio</h4>
+<h3 align="center">🤖 Machine Learning Experiments & Data Science Portfolio</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CFF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Machine+Learning;Turning+raw+data+into+intelligent+solutions;Open+to+AI%2FML+%26+Data+Science+Internships" alt="Typing SVG" />
